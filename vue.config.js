@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: "https://unpkg.com/test-cdn@master/dist",
+  publicPath: "https://cdn.jsdelivr.net/gh/fanite/test-cdn@master/dist",
   configureWebpack: {
     output: {},
     externals: {
